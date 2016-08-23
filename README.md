@@ -1,3 +1,3 @@
 ##### first-project
 [Output](http://localhost:8080/job/TestJob/badge/icon) 
-:+1:
+[Output for macmini](http://10.144.214.164:8080/job/Daily_MAC_64_SmokeTests/badge/icon)
