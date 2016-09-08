@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 abcdefg
+=======
+abcdefg
+making changes
+testing
+>>>>>>> eab40fb821c62a691f9d2770ed6a1d4b42c249d9
